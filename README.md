@@ -10,7 +10,7 @@ See below for HitHub pages link and URL of the webpage:
 - https://github.com/RyanGolder/password-generator
 - https://ryangolder.github.io/password-generator/
 
-![Password Generator] https://user-images.githubusercontent.com/121011030/221395838-187969ee-aa37-4324-9512-8b1971f1b8dd.png
+![Screenshot 2023-02-26 at 5.25.42 pm] https://user-images.githubusercontent.com/121011030/221395838-187969ee-aa37-4324-9512-8b1971f1b8dd.png
 
 ## Usage
 
